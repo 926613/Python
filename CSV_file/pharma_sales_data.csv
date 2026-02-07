@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Sales_Units,Revenue,Region
+101,PainRelief,Analgesic,500.0,25000.0,North
+102,CoughSyrup,Cough & Cold,300.0,12000.0,South
+103,AntibioticX,Antibiotic,,40000.0,East
+104,VitaminD,Supplement,700.0,,West
+105,DiabetesMed,Diabetes,450.0,31500.0,North
+106,Antacid,Digestive,,18000.0,South
+107,AllergyPill,Allergy,600.0,,East
+108,FluShot,Vaccine,800.0,56000.0,West
